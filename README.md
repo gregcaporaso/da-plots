@@ -1,5 +1,7 @@
 # da-plots
 
+**This code is no longer under development.** Development is moving to q2-composition: https://github.com/qiime2/q2-composition/pull/108
+
 This repository contains a notebook that generates an **experimental** differential abundance barplot from ANCOM-BC data generated with QIIME 2 2022.11. This is **not well-validated**, so results should be carefully reviewed.
 
 ## Installing
